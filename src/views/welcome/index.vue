@@ -1,0 +1,21 @@
+<template>
+  <div class="welcome-container">欢迎页面</div>
+</template>
+
+<script>
+export default {
+  name: "",
+  components: {},
+  props: {},
+  data() {
+    return {};
+  },
+  computed: {},
+  watch: {},
+  created() {},
+  mounted() {},
+  methods: {}
+};
+</script>
+
+<style scoped lang="less"></style>
